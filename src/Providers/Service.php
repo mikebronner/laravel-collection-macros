@@ -1,5 +1,6 @@
 <?php namespace GeneaLabs\LaravelCollectionMacros\Providers;
 
+use GeneaLabs\LaravelCollectionMacros\ImplodeRecursive;
 use GeneaLabs\LaravelCollectionMacros\Paginate;
 use Illuminate\Support\ServiceProvider;
 
@@ -14,6 +15,7 @@ class Service extends ServiceProvider
 
     public function register()
     {
+        new ImplodeRecursive;
         new Paginate;
     }
 
