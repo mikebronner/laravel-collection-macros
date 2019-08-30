@@ -16,7 +16,6 @@
         "codedungeon/phpunit-result-printer": "*",
         "fzaninotto/faker": "*",
         "mockery/mockery": "*",
-        "orchestra/database": "3.9.x-dev@dev",
         "orchestra/testbench-browser-kit": "3.9.x-dev@dev",
         "orchestra/testbench-dusk": "3.9.x-dev@dev",
         "orchestra/testbench": "3.9.x-dev@dev",
