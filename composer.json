@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "illuminate/pagination": "^^6.0",
+        "illuminate/pagination": "^6.0",
         "illuminate/support": "^6.0"
     },
     "require-dev": {
